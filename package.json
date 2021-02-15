@@ -61,7 +61,8 @@
     ]
   },
   "devDependencies": {
-    "@capacitor/cli": "2.4.6"
+    "@capacitor/cli": "2.4.6",
+    "json-server": "^0.16.3"
   },
   "description": "An Ionic project"
 }
